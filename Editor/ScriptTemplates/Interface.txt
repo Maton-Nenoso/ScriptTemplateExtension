@@ -1,0 +1,7 @@
+// DefaultName: INewInterface.cs
+namespace #NAMESPACE#
+{
+    public interface #SCRIPTNAME#
+    {
+    }
+}

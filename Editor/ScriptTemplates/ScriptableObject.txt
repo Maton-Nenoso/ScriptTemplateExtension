@@ -1,0 +1,11 @@
+// MenuLabel: ScriptableObject
+// DefaultName: NewScriptableObject.cs
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+    [CreateAssetMenu(fileName = "New#SCRIPTNAME#", menuName = "#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+    }
+}

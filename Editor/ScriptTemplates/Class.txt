@@ -1,0 +1,7 @@
+// MenuLabel: Class (Plain)
+namespace #NAMESPACE#
+{
+    public class #SCRIPTNAME#
+    {
+    }
+}
