@@ -1,0 +1,17 @@
+{
+  "name": "com.nenoso.scripttemplateextension",
+  "version": "1.0.0",
+  "displayName": "Script Template Extension",
+  "description": "Adds Create menu items for common C# file types (class, interface, struct, enum, etc.) with automatic namespace resolution and custom template support.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Nenoso",
+    "url": "https://github.com/Maton-Nenoso"
+  },
+  "keywords": [
+    "script",
+    "template",
+    "editor",
+    "code generation"
+  ]
+}
