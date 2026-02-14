@@ -29,7 +29,7 @@ Copy the entire `ScriptTemplateExtension` folder into your Unity project's `Asse
 
 ### Install via git URL
 
-Requires a version of unity that supports path query parameter for git packages (Unity 2020.3+). You can add `https://github.com/Maton-Nenoso/ScriptTemplateExtension` to Package Manager
+Requires a version of unity that supports path query parameter for git packages (Unity 2020.3+). You can add `https://github.com/Maton-Nenoso/ScriptTemplateExtension.git` to Package Manager
 
 ### After installation
 
